@@ -1,4 +1,4 @@
-# Laxmikant Pathade 
+# Arnab Deka
 Many thanks to [gaalcaras](https://gaalcaras.com) for the Academic theme powered by [Jekyll](http://jekyllrb.com/)
 
 ## License

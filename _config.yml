@@ -31,7 +31,7 @@ email: arnabdeka.in@gmail.com
 twitter_username: arnabdeka
 github_username:  arnab-deka
 #your Github username. If it exists, your account will be linked in the footer and on the about page.
-linkedin_username: laxmikantpathade
+linkedin_username: arnabjyotideka
 #your LinkedIn username. If it exists, your account will be linked on the about page.
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
@@ -40,14 +40,14 @@ author_website: https://www.arnabdeka.in #see website html & svg details in incl
 
 curriculum:
   name: Curriculum-Vitae # [optional] text of the link. Default : Curriculum Vitae.
-  url: assets/cv-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+  #url: assets/cv-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
 cc: #creative commons share alike licence; default is (c)
 
 
 # Nav menu
 nav_ext_links:
   - name: resume
-    url: assets/resume-laxmikantpathade.pdf
+  #  url: assets/resume-laxmikantpathade.pdf
 # can add more pages here
 # - name: test1
 #    url: https://twitter.com/lp
