@@ -4,7 +4,7 @@ title: LP
 lang: en
 invisible: true
 seo:
-  title: Laxmikant Pathade, Syracuse #goes to the tab part
+  title: Arnab Deka #goes to the tab part
 ---
 
 PhD at IPR
