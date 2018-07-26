@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Laxmikant Pathade #in the tab area
-title_html: "<b>Laxmikant Pathade </b>" # name of site in top left corner
+title: Arnab Deka#in the tab area
+title_html: "<b>Arnab Deka </b>" # name of site in top left corner
 description: Last Updated November 2017.
 # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -27,16 +27,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #Author
 author: Arnab Deka
 
-email: laxmikant.pathade@gmail.com
-twitter_username: LaxPathade_LP
-github_username:  laxmikantpathade
+email: arnabdeka.in@gmail.com
+twitter_username: arnabdeka
+github_username:  arnab-deka
 #your Github username. If it exists, your account will be linked in the footer and on the about page.
 linkedin_username: laxmikantpathade
 #your LinkedIn username. If it exists, your account will be linked on the about page.
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
 
-author_website: https://orcid.org/0000-0001-7249-4247 #see website html & svg details in includes/icons for details.
+author_website: https://www.arnabdeka.in #see website html & svg details in includes/icons for details.
 
 curriculum:
   name: Curriculum-Vitae # [optional] text of the link. Default : Curriculum Vitae.
