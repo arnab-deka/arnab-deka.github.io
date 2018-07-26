@@ -8,7 +8,8 @@ permalink: /Blog
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.content | strip_html | truncatewords: 50 }}
+       {{ post.excerpt }}
+#      {{ post.content | strip_html | truncatewords: 50 }}
     </li>
   {% endfor %}
 </ul>
