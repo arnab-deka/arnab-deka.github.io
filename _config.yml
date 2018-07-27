@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arnab Deka#in the tab area
-title_html: "<b>Arnab Deka </b>" # name of site in top left corner
-description: Last Updated November 2017.
+title: Arnab Deka #in the tab area
+title_html: "<b>AD </b>" # name of site in top left corner
+description: Research webpage of Arnab Deka 
 # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -27,11 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #Author
 author: Arnab Deka
 
-email: arnabdeka.in@gmail.com
+email: arnabdeka@hotmail.com
 twitter_username: arnabdeka
 github_username:  arnab-deka
 #your Github username. If it exists, your account will be linked in the footer and on the about page.
-linkedin_username: arnabjyotideka
+linkedin_username: arnabjdeka
 #your LinkedIn username. If it exists, your account will be linked on the about page.
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
