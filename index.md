@@ -14,6 +14,6 @@ I am a Nuclear Engineer and pursuing a PhD.The PhD project involves design and d
 
 I obtained my Masters Degree in Nuclear Science and Technology from University of Petroleum and Energy Studies, Dehradun and Bachelors Degree in Chemical Engineering from SRM University, Chennai.
 
-More on [About Page](../1about.md).
+More on [About Page](../about).
 
 ##### Curriculum Vitae
