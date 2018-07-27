@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Arnab Deka
+title: AD
 lang: en
 invisible: true
 seo:
