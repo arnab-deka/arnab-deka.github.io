@@ -12,4 +12,4 @@ For my Bachelor's I studied Chemical Engineering. Unfortunately, I couldn't moti
 I was born on a winter morning at Guwahati, Assam in North-Eastern India and brought up there by my parents. After schooling, I moved down south, Chennai for Bachelors and then north, Dehradun for Masters. As of I now I am based in Ahmedabad, Gujarat  (western India)  for my doctoral studies. Poster boy of National Integration, maybe.  I like to engage in conversations related to science, philosophy and psychology. I travel quite often. I like to hike and explore the villages of India and write about my travels and post photo stories in my [personal blog](https://www.arnabdeka.in "Empty Spaces"). <https://www.arnabdeka.in>.
 
 
-![Foothills of the Himalayas]({{ "/assets/kasol.jpg" | absolute_url }})  
+![Foothills of the Himalayas]({{ "/assets/kasol.jpg" | absolute_url }} "Foothills of the Himalayas")  
