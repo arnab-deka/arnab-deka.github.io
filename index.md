@@ -7,7 +7,7 @@ seo:
   #title: Arnab Deka #goes to the tab part
 ---
 
-#### PhD student at Institute for Plasma Research, Dept. of Atomic Energy, India.   
+### PhD student at Institute for Plasma Research, Dept. of Atomic Energy, India.   
 
 
 I am a Nuclear Engineer and working on my doctoral thesis in Engineering Sciences.
@@ -16,7 +16,7 @@ The PhD project involves design and development of a Doppler Shift spectroscopy 
 
 I obtained my Masters Degree in Nuclear Science and Technology from University of Petroleum and Energy Studies, Dehradun and Bachelors Degree in Chemical Engineering from SRM University, Chennai.
 
-More on About Page. 
+More on About Page.
 
 Curriculum Vitae:
 
