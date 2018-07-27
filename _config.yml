@@ -36,7 +36,7 @@ linkedin_username: arnabjdeka
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
 
-author_website: https://www.arnabdeka.in #see website html & svg details in includes/icons for details.
+# author_website: https://www.arnabdeka.in #see website html & svg details in includes/icons for details.
 
 curriculum:
   name: Curriculum-Vitae # [optional] text of the link. Default : Curriculum Vitae.
